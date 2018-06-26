@@ -6,7 +6,7 @@ There are two kinds of moderators active on the Utopian platform: **Project Mode
 
 ## Project Moderators
 
-These are moderators who review contributions made to specific Open Source projects only.
+These are moderators who review contributions made to specific Open Source projects only. These people are either the developers of the project or staff members of the selected project.
 
 
 ## Utopian Moderators
