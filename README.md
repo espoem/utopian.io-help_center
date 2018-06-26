@@ -24,4 +24,4 @@ This site is still under development. You can view a live version of it here: ht
 
 ---
 
-Feel free to contribute to this project. To start, visit the [Project Page on Utopian](https://utopian.io/project/imwatsi/utopian.io-help_center/github/111396190/all). You can also contact Utopian PR Team
+Feel free to contribute to this project. To start, visit the [Project Page on Utopian](https://utopian.io/project/imwatsi/utopian.io-help_center/github/111396190/all). You can also contact me on Discord @imwatsi
