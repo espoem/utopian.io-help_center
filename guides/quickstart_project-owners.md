@@ -46,7 +46,11 @@ To create a new task request, click “Add task request” near the name of the 
 
 Note: You must be on your project’s page, as described above, to see the option to add a task request for it. You can also click the blue icon beside your project’s name, in the “GitHub Connection” section, on the right side of the page.
 
+<<<<<<< Updated upstream
 Next, you will be asked to enter what you want contributors to do for your project. You can create task requests addressed to contributors specialized in many different areas, as seen in the image below.
+=======
+Next, you will be asked what you want contributors to do for your project. You can create task requests addressed to contributors specialized in many different areas, as seen in the image below.
+>>>>>>> Stashed changes
 
 ![tasks_categories](../assets/img/tasks_categories.jpeg)
 
@@ -73,7 +77,11 @@ The GitHub project you’re creating a task request for will be displayed here. 
 
 ![write_title_tr](../assets/img/write_title_tr.jpeg)
 
+<<<<<<< Updated upstream
 Write the title of your task request here. Make sure it relates to potential contributors by writing text that clearly portrays the overall purpose of the task request.
+=======
+Write the title of your task request here. Make sure your it relates to potential contributors by writing text that clearly portrays overall purpose of the task request. [Read tips on writing effective titles for your task requests](#).
+>>>>>>> Stashed changes
 
 <br>
 
@@ -81,9 +89,15 @@ Write the title of your task request here. Make sure it relates to potential con
 
 ![write_editor](../assets/img/write_editor.jpeg)
 
+<<<<<<< Updated upstream
 This is where you will write your task request. You can format text with a number of options, upload pictures and link to other sites. You can also use Markdown or HTML to format your post.
 
 Your task request should have enough information to let potential contributors know what your project needs and how they can contribute..
+=======
+This is where you will write your task request. You can format text with a number of options, upload pictures and link to other sites. You can also [use Markdown or HTML to format your post](#).
+
+Your task request should have enough information to let potential contributors know what your project needs and how they can contribute. Read more about [writing an effective task request](#).
+>>>>>>> Stashed changes
 
 <br>
 
@@ -105,11 +119,19 @@ Utopian gives you two ways in which to receive your STEEM rewards.
 
 This option gives you 50% of your rewards in SBD, which is a form of liquid STEEM. It can be transferred and spent immediately. You can trade it for Bitcoin or any other cryptocurrency, and ultimately exchange it for the fiat currency of your choice.
 
+<<<<<<< Updated upstream
 The other 50% will be in Steem Power, which is STEEM that is bound to a smart contract that lets you withdraw your STEEM in 13 weekly amounts.
 
 **2) 100% STEEM POWER**
 
 This option gives you all your rewards in the form of Steem Power, which you can withdraw through a 13 week schedule by “powering down” your Steem account.
+=======
+The other 50% will be in Steem Power, which is STEEM that is bound to a smart contract that lets you withdraw your STEEM in 13 weekly amounts. Steem Power has a lot of utility in the Utopian ecosystem, and [more information about its importance is available in the knowledge base](../kb/utopian-steem/steem-power.md).
+
+**2) 100% STEEM POWER**
+
+This option gives you all your rewards in the form of Steem Power, which you can withdraw through a 13 week schedule by “powering down” your Steem account. [Learn more about the Steem blockchain’s economic model](https://steem.io).
+>>>>>>> Stashed changes
 
 <br>
 
@@ -149,7 +171,11 @@ Utopian has a scoring system that you can use to rate the quality of contributio
 
 ###  Picking a 'Solver'
 
+<<<<<<< Updated upstream
 When you make a task request on Utopian, it may get a number of different contributions and as a Project Owner, you can select one contribution that meets your needs best and mark it as a **Solver**. The contribution you pick will receive a higher reward and more visibility on the platform for its excellence.
+=======
+When you make a task request on Utopian, it may get a number of different contributions and as a Project Owner, you can select one contribution that meets your needs best and mark it as a **Solver**. The contribution you pick will receive a higher reward for its excellence.
+>>>>>>> Stashed changes
 
 <br>
 
@@ -168,3 +194,7 @@ From this page, you can make transfers of either STEEM or SBD to other Steem acc
 ### Sending STEEM tokens
 
 Project owners can also choose to send STEEM tokens to contributors as way of payment or reward. These will come directly from the project owners accounts and not from the general rewards pool of Steem.
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of d734a38... remove unnecessary content
+>>>>>>> Stashed changes
