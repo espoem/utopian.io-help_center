@@ -3,6 +3,7 @@
 Everyone is welcome to join the Utopian community. Open Source is central to Utopian's existence and as such, it is used by people who care about Open Source projects.
 
 **Contributors use Utopian to:**
+
 - Share the work they do on Open Source projects with the world
 - Earn rewards for it
 - Interact with other contributors
@@ -11,6 +12,7 @@ Everyone is welcome to join the Utopian community. Open Source is central to Uto
 - Keep up with the trending Open Source projects
 
 **Project Owners use Utopian to:**
+
 - Find talented contributors to work with
 - Reward their contributors
 - Streamline their product development
